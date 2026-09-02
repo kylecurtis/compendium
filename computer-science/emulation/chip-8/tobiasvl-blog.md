@@ -1,5 +1,8 @@
 # CHIP-8
 
+> - **Created By**: Tobias V. I. Langhoff
+> - **Website**: https://tobiasvl.github.io/blog/write-a-chip-8-emulator/
+
 ## [Specifications](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/#specifications)
 
 CHIP-8 has the following components:
